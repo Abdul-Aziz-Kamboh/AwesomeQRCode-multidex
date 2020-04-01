@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AwesomeQR.iml" filepath="$PROJECT_DIR$/AwesomeQR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AwesomeQRCode-multidex.iml" filepath="$PROJECT_DIR$/AwesomeQRCode-multidex.iml" group="AwesomeQRCode-multidex" />
+      <module fileurl="file://$PROJECT_DIR$/app/AwesomeQRCode-multidex-app.iml" filepath="$PROJECT_DIR$/app/AwesomeQRCode-multidex-app.iml" group="AwesomeQRCode-multidex/app" />
+      <module fileurl="file://$PROJECT_DIR$/library/AwesomeQRCode-multidex-library.iml" filepath="$PROJECT_DIR$/library/AwesomeQRCode-multidex-library.iml" group="AwesomeQRCode-multidex/library" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
